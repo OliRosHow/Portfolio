@@ -1,0 +1,119 @@
+public class PreAPitch // preassigned pitches
+{
+   public static final Pitch C0 = new Pitch("C",0);
+   public static final Pitch Db0 = new Pitch("Db",0);
+   public static final Pitch D0 = new Pitch("D",0);
+   public static final Pitch Eb0 = new Pitch("Eb",0);
+   public static final Pitch E0 = new Pitch("E",0);
+   public static final Pitch F0 = new Pitch("F",0);
+   public static final Pitch Gb0 = new Pitch("Gb",0);
+   public static final Pitch G0 = new Pitch("G",0);
+   public static final Pitch Ab0 = new Pitch("Ab",0);
+   public static final Pitch A0 = new Pitch("A",0);
+   public static final Pitch Bb0 = new Pitch("Bb",0);
+   public static final Pitch B0 = new Pitch("B",0);
+   
+   public static final Pitch C1 = new Pitch("C",1);
+   public static final Pitch Db1 = new Pitch("Db",1);
+   public static final Pitch D1 = new Pitch("D",1);
+   public static final Pitch Eb1 = new Pitch("Eb",1);
+   public static final Pitch E1 = new Pitch("E",1);
+   public static final Pitch F1 = new Pitch("F",1);
+   public static final Pitch Gb1 = new Pitch("Gb",1);
+   public static final Pitch G1 = new Pitch("G",1);
+   public static final Pitch Ab1 = new Pitch("Ab",1);
+   public static final Pitch A1 = new Pitch("A",1);
+   public static final Pitch Bb1 = new Pitch("Bb",1);
+   public static final Pitch B1 = new Pitch("B",1);
+   
+   public static final Pitch C2 = new Pitch("C",2);
+   public static final Pitch Db2 = new Pitch("Db",2);
+   public static final Pitch D2 = new Pitch("D",2);
+   public static final Pitch Eb2 = new Pitch("Eb",2);
+   public static final Pitch E2 = new Pitch("E",2);
+   public static final Pitch F2 = new Pitch("F",2);
+   public static final Pitch Gb2 = new Pitch("Gb",2);
+   public static final Pitch G2 = new Pitch("G",2);
+   public static final Pitch Ab2 = new Pitch("Ab",2);
+   public static final Pitch A2 = new Pitch("A",2);
+   public static final Pitch Bb2 = new Pitch("Bb",2);
+   public static final Pitch B2 = new Pitch("B",2);
+   
+   public static final Pitch C3 = new Pitch("C",3);
+   public static final Pitch Db3 = new Pitch("Db",3);
+   public static final Pitch D3 = new Pitch("D",3);
+   public static final Pitch Eb3 = new Pitch("Eb",3);
+   public static final Pitch E3 = new Pitch("E",3);
+   public static final Pitch F3 = new Pitch("F",3);
+   public static final Pitch Gb3 = new Pitch("Gb",3);
+   public static final Pitch G3 = new Pitch("G",3);
+   public static final Pitch Ab3 = new Pitch("Ab",3);
+   public static final Pitch A3 = new Pitch("A",3);
+   public static final Pitch Bb3 = new Pitch("Bb",3);
+   public static final Pitch B3 = new Pitch("B",3);
+   
+   public static final Pitch C4 = new Pitch("C",4);
+   public static final Pitch Db4 = new Pitch("Db",4);
+   public static final Pitch D4 = new Pitch("D",4);
+   public static final Pitch Eb4 = new Pitch("Eb",4);
+   public static final Pitch E4 = new Pitch("E",4);
+   public static final Pitch F4 = new Pitch("F",4);
+   public static final Pitch Gb4 = new Pitch("Gb",4);
+   public static final Pitch G4 = new Pitch("G",4);
+   public static final Pitch Ab4 = new Pitch("Ab",4);
+   public static final Pitch A4 = new Pitch("A",4);
+   public static final Pitch Bb4 = new Pitch("Bb",4);
+   public static final Pitch B4 = new Pitch("B",4);
+   
+   public static final Pitch C5 = new Pitch("C",5);
+   public static final Pitch Db5 = new Pitch("Db",5);
+   public static final Pitch D5 = new Pitch("D",5);
+   public static final Pitch Eb5 = new Pitch("Eb",5);
+   public static final Pitch E5 = new Pitch("E",5);
+   public static final Pitch F5 = new Pitch("F",5);
+   public static final Pitch Gb5 = new Pitch("Gb",5);
+   public static final Pitch G5 = new Pitch("G",5);
+   public static final Pitch Ab5 = new Pitch("Ab",5);
+   public static final Pitch A5 = new Pitch("A",5);
+   public static final Pitch Bb5 = new Pitch("Bb",5);
+   public static final Pitch B5 = new Pitch("B",5);
+   
+   public static final Pitch C6 = new Pitch("C",6);
+   public static final Pitch Db6 = new Pitch("Db",6);
+   public static final Pitch D6 = new Pitch("D",6);
+   public static final Pitch Eb6 = new Pitch("Eb",6);
+   public static final Pitch E6 = new Pitch("E",6);
+   public static final Pitch F6 = new Pitch("F",6);
+   public static final Pitch Gb6 = new Pitch("Gb",6);
+   public static final Pitch G6 = new Pitch("G",6);
+   public static final Pitch Ab6 = new Pitch("Ab",6);
+   public static final Pitch A6 = new Pitch("A",6);
+   public static final Pitch Bb6 = new Pitch("Bb",6);
+   public static final Pitch B6 = new Pitch("B",6);
+   
+   public static final Pitch C7 = new Pitch("C",7);
+   public static final Pitch Db7 = new Pitch("Db",7);
+   public static final Pitch D7 = new Pitch("D",7);
+   public static final Pitch Eb7 = new Pitch("Eb",7);
+   public static final Pitch E7 = new Pitch("E",7);
+   public static final Pitch F7 = new Pitch("F",7);
+   public static final Pitch Gb7 = new Pitch("Gb",7);
+   public static final Pitch G7 = new Pitch("G",7);
+   public static final Pitch Ab7 = new Pitch("Ab",7);
+   public static final Pitch A7 = new Pitch("A",7);
+   public static final Pitch Bb7 = new Pitch("Bb",7);
+   public static final Pitch B7 = new Pitch("B",7);
+   
+   public static final Pitch C8 = new Pitch("C",8);
+   public static final Pitch Db8 = new Pitch("Db",8);
+   public static final Pitch D8 = new Pitch("D",8);
+   public static final Pitch Eb8 = new Pitch("Eb",8);
+   public static final Pitch E8 = new Pitch("E",8);
+   public static final Pitch F8 = new Pitch("F",8);
+   public static final Pitch Gb8 = new Pitch("Gb",8);
+   public static final Pitch G8 = new Pitch("G",8);
+   public static final Pitch Ab8 = new Pitch("Ab",8);
+   public static final Pitch A8 = new Pitch("A",8);
+   public static final Pitch Bb8 = new Pitch("Bb",8);
+   public static final Pitch B8 = new Pitch("B",8);
+}
